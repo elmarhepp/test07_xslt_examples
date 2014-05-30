@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <cd>
+    <title>Empire Burlesque</title>
+    <artist>Bob Dylan</artist>
+    <country>USA</country>
+    <company>Columbia</company>
+    <price>10.90</price>
+    <year>1985</year>
+  </cd>
+  <cd>
+    <title>Don Carlos</title>
+    <artist>Karajan</artist>
+    <country>Austria</country>
+    <company>Grammy</company>
+    <price>22.25</price>
+    <year>1975</year>
+  </cd>
+    <cd>
+    <title>Trovatore</title>
+    <artist>Callas</artist>
+    <country>Italy</country>
+    <company>Sony</company>
+    <price>9.99</price>
+    <year>1965</year>
+  </cd>
+</catalog>
